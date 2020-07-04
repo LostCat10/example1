@@ -1,0 +1,16 @@
+
+body{
+  background-color: crimson;
+}
+
+footer{
+  padding: 10px;
+  background: blue;
+  color: black;
+  position: relative;
+  top: 10%;
+}
+h1{
+  font-style: italic;
+  color: orange;
+}
