@@ -20,8 +20,18 @@ h1{
     background-color: lightblue;
   }
   h1{
-    font-size: 400px;
+    font-size: 200px;
     font-style: italic;
     color: orange;
+  }
+
+
+  footer{
+    padding: 10px;
+    background: blue;
+    color: black;
+    position: relative;
+    bottom: 0%;
+    width: 100%;
   }
 }
