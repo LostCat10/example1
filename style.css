@@ -15,3 +15,8 @@ h1{
   font-style: italic;
   color: orange;
 }
+@media only screen and (max-height: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
